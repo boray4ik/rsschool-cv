@@ -30,4 +30,4 @@ I really want to get new skills. A good sense of humor will help improve the moo
 ## **English**
 A1 (I am trying very hard to learn English. The Simpler and Duolingo apps help me.)
 
-https://boray4ik.github.io/rsschool-cv
+https://boray4ik.github.io/rsschool-cv/cv
