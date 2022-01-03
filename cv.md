@@ -1,13 +1,13 @@
 ## **Name**
 Sergei Boreiko
 ## **Contacts**
-*Location: Zhodino, Belarus
+1.Location: Zhodino, Belarus
 
-*Phone: +375 29 178-49-55
+2.Phone: +375 29 178-49-55
 
-*Email: boray4ik@gmail.com
+3.Email: boray4ik@gmail.com
 
-*GitHub: [boray4ik](https://github.com/boray4ik)
+4.GitHub: [boray4ik](https://github.com/boray4ik)
 
 №№№About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
