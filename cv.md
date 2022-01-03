@@ -28,7 +28,9 @@ alert( result );
 ## **Education**
 * **College:** Minsk State Higher Radio Engineering College, Technician electronics
 * **University:** Belarusian State University of Informatics and Radioelectronics, Industrial electronics, Engineer radio electronics
-* **Courses:** - [Stepik - HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login)- [Stepik - Python](https://stepik.org/course/67/syllabus)
-- [Skillbox - Frontend](https://skillbox.ru/course/frontend-pro-expert/)
+* **Courses:**
+[Stepik - HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login)
+[Stepik - Python](https://stepik.org/course/67/syllabus)
+[Skillbox - Frontend](https://skillbox.ru/course/frontend-pro-expert/)
 ## **English**
 A1 (I had been practicing English, when I worked in the USA as an exchange student)
