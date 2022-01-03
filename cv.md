@@ -27,4 +27,4 @@ I really want to get new skills. A good sense of humor will help improve the moo
  [Stepik - Python](https://stepik.org/course/67/syllabus)
  [Skillbox - Frontend](https://skillbox.ru/course/frontend-pro-expert/)
 ## **English**
-A1 (I am trying very hard to learn English. The Simpler and Duolingo apps help me.)
+A1 (I am trying very hard to learn English. The Simpler and Duolingo apps help me)
