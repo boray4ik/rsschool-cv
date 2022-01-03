@@ -29,7 +29,7 @@ alert( result );
 * **College:** Minsk State Higher Radio Engineering College, Technician electronics
 * **University:** Belarusian State University of Informatics and Radioelectronics, Industrial electronics, Engineer radio electronics
 * **Courses:** 
-1. [https://stepik.org/course/38218/syllabus?auth=login](Stepik - HTML&CSS)
+1. [Stepik - HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login)
 2. [Stepik - Python](https://stepik.org/course/67/syllabus)
 3. Skillbox - Frontend( https://skillbox.ru/course/frontend-pro-expert/ )
 ## **English**
