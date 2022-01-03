@@ -1,5 +1,5 @@
 ## **Name**
-Sergei Boreiko
+**Sergei Boreiko**
 ## **Contacts**
 * **Location:** Zhodino, Belarus
 
