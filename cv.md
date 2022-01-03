@@ -9,7 +9,7 @@ Sergei Boreiko
 
 *Email: boray4ik@gmail.com
 
-*GitHub: [https://github.com/boray4ik](boray4ik)
+*GitHub: [boray4ik](https://github.com/boray4ik)
 
 №№№About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
