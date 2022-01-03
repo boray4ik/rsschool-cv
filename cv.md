@@ -10,7 +10,7 @@ Sergei Boreiko
 * **GitHub:** [boray4ik](https://github.com/boray4ik)
 
 ## **About Me**
-I really want to get new skills. A good sense of humor will help improve the mood in the team. Thanks.
+I was born in the city of Zhodino. Graduated from college and university in Minsk. As a child, I was fond of HTML and CSS. I really want to get new skills. A good sense of humor will help improve the mood in the team. Thanks.
 ### **Skills**
 * HTML
 * CSS
