@@ -5,7 +5,7 @@ Sergei Boreiko
 
 * **Phone:** +375 29 178-49-55
 
-* **Email:** [boray4ik@gmail.com](boray4ik@gmail.com)
+* **Email:** <boray4ik@gmail.com>
 
 * **GitHub:** [boray4ik](https://github.com/boray4ik)
 
