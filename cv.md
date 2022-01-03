@@ -14,7 +14,7 @@ I was born in the city of Zhodino. Graduated from college and university in Mins
 ## **Skills**
 * HTML
 * CSS
-* Pyton (Basic)
+* Python (Basic)
 * JS (Basic)
 * Git (Basic)
 ## **Code Example**
