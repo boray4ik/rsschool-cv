@@ -18,9 +18,9 @@ I really want to get new skills. A good sense of humor will help improve the moo
 * JS (Basic)
 * Git (Basic)
 ## **Code Example**
-,
+'
 print("Hello, world!")
-,
+'
 ## **Education**
 * **College:** Minsk State Higher Radio Engineering College, Technician electronics
 * **University:** Belarusian State University of Informatics and Radioelectronics, Industrial electronics, Engineer radio electronics
