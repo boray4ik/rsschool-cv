@@ -1,8 +1,8 @@
-###**Name**
+### **Name**
 
 Sergei Boreiko
 
-###**Contacts**
+### **Contacts**
 Location: Zhodino, Belarus
 Phone: +375 29 178-49-55
 Email: boray4ik@gmail.com
