@@ -23,8 +23,8 @@ I really want to get new skills. A good sense of humor will help improve the moo
 * **College:** Minsk State Higher Radio Engineering College, Technician electronics
 * **University:** Belarusian State University of Informatics and Radioelectronics, Industrial electronics, Engineer radio electronics
 * **Courses:**
- 1. [Stepik - HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login) 1
- 2. [Stepik - Python](https://stepik.org/course/67/syllabus) 2
- 3. [Skillbox - Frontend](https://skillbox.ru/course/frontend-pro-expert/) 3
+    + [Stepik - HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login)
+    + [Stepik - Python](https://stepik.org/course/67/syllabus)
+    + [Skillbox - Frontend](https://skillbox.ru/course/frontend-pro-expert/)
 ## **English**
 A1 (I am trying very hard to learn English. The Simpler and Duolingo apps help me)
